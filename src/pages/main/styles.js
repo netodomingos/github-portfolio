@@ -55,8 +55,8 @@ export const SubmitButton = styled.button.attrs({
     padding: 10px 12px;
     margin-left: 10px;
     border-radius: 4px;
-
-
+    cursor: pointer;
+    
         svg{
         font-size: 20px;
         color: #fff;

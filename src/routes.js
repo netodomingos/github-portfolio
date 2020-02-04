@@ -9,7 +9,7 @@ export default function src() {
     <Router>
         <Switch>
             <Route path='/' exact component={Main} />
-            <Route path='/profile' exact component={Profile} />
+            <Route path='/profile/:user' exact component={Profile} />
         </Switch>
     </Router>
   );
