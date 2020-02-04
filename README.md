@@ -20,4 +20,4 @@ Com isso o projeto funcionará normalmente!
 
 Para usar o projeto, é necessário colocar o usuário do Github de quem você quer pesquisar:
 
-![teste](https://user-images.githubusercontent.com/49910898/73710656-61c45a00-46e3-11ea-9cfe-7d51237d0c9e.gif)
+![a](https://user-images.githubusercontent.com/49910898/73710905-034bab80-46e4-11ea-9c14-3b4e3bd81174.gif)
