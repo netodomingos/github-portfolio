@@ -19,3 +19,5 @@ Com isso o projeto funcionará normalmente!
 ### Usando o projeto
 
 Para usar o projeto, é necessário colocar o usuário do Github de quem você quer pesquisar:
+
+![teste](https://user-images.githubusercontent.com/49910898/73710656-61c45a00-46e3-11ea-9cfe-7d51237d0c9e.gif)
